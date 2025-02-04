@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+} header {
+    background-color: #076ba7;
+    padding: 20px;
+    text-align: center;
+} .header {
+    color: rgb(255, 255, 255);
+} section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+} h1, h2 {
+    color: #076ba7;
+} ul {
+    padding-left: 20px;
+} footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+    margin-top: 20px;
+} .contact, .dates, .keywords, .pedagogy, .faculty, .wca {
+    margin-top: 20px;
+} .contact span, .dates span {
+    display: block;
+    margin-top: 5px;
+}
